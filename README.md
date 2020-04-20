@@ -6,7 +6,7 @@ Please visit https://github.com/tpbtools/gp-php
 
 ## Overview
 
-Docker image and docker-compose sample configuration to bring up a PHP web application product to the Teecke [Docker Generic Platform (GP)](https://github.com/teecke/docker-generic-platform).
+Docker image and docker-compose sample configuration to bring up a PHP web application product to the [Docker Generic Platform (GP)](https://github.com/tpbtools/docker-generic-platform).
 
 ## Configuration
 
@@ -32,7 +32,7 @@ The product is formed by one container:
 
 6. Stop the platform with `docker-compose stop`.
 
-You can use this docker piece with the [Docker Generic Platform](https://github.com/teecke/docker-generic-platform) project.
+You can use this docker piece with the [Docker Generic Platform](https://github.com/tpbtools/docker-generic-platform) project.
 
 ## Known issues
 
