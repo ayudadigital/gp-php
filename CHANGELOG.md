@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.1 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.1 info with JPL ([f2dbc71](https://github.com/ayudadigital/gp-php/commit/f2dbc71))
+* Use jpl v6.2.0 ([703c03b](https://github.com/ayudadigital/gp-php/commit/703c03b))
+
+#### Docs
+
+* Generate v2.0.0 changelog with JPL ([338f87d](https://github.com/ayudadigital/gp-php/commit/338f87d))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.0 (2020-04-24)
 
 ### Changes
