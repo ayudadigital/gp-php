@@ -1,5 +1,25 @@
 # Changelog
 
+## v3.0.0 (2022-01-08)
+
+### Changes
+
+#### Breaking
+
+* Upgrade to php v8.1.1 ([54cde17](https://github.com/ayudadigital/gp-php/commit/54cde17))
+
+#### Build
+
+* Update Auto Release Log adding v3.0.0 info with JPL ([97560db](https://github.com/ayudadigital/gp-php/commit/97560db))
+
+#### Docs
+
+* Generate v2.0.1 changelog with JPL ([66885b0](https://github.com/ayudadigital/gp-php/commit/66885b0))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.1 (2021-03-28)
 
 ### Changes
