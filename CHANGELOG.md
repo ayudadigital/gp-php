@@ -1,5 +1,26 @@
 # Changelog
 
+## v3.1.0 (2023-03-19)
+
+### Changes
+
+#### Upgrade
+
+* Use php v8.1.17 ([8719fa2](https://github.com/ayudadigital/gp-php/commit/8719fa2))
+
+#### Build
+
+* Update Auto Release Log adding v3.1.0 info with JPL ([29af4f7](https://github.com/ayudadigital/gp-php/commit/29af4f7))
+* Migrate to gh docker registry ([ccd157b](https://github.com/ayudadigital/gp-php/commit/ccd157b))
+
+#### Docs
+
+* Generate v3.0.0 changelog with JPL ([16399ae](https://github.com/ayudadigital/gp-php/commit/16399ae))
+
+### Authors
+
+* Pedro Amador
+
 ## v3.0.0 (2022-01-08)
 
 ### Changes
