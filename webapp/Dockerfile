@@ -1,4 +1,4 @@
-FROM php:8.1.1-apache-buster
+FROM php:8.1.17-apache-buster
 
 # Install packages
 RUN apt-get update && \
