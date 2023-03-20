@@ -1,5 +1,9 @@
 FROM php:8.1.17-apache-buster
 
+LABEL org.opencontainers.image.source=https://github.com/ayudadigital/gp-php
+LABEL org.opencontainers.image.description="Generic Platform - PHP Webapp Server Product"
+LABEL org.opencontainers.image.licenses=MIT
+
 # Install packages
 RUN apt-get update && \
     apt-get dist-upgrade -y && \
