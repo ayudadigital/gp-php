@@ -1,5 +1,25 @@
 # Changelog
 
+## v3.1.1 (2023-03-20)
+
+### Changes
+
+#### Update
+
+* Add docker gh label info ([82b8223](https://github.com/ayudadigital/gp-php/commit/82b8223))
+
+#### Build
+
+* Update Auto Release Log adding v3.1.1 info with JPL ([76a175e](https://github.com/ayudadigital/gp-php/commit/76a175e))
+
+#### Docs
+
+* Generate v3.1.0 changelog with JPL ([429db41](https://github.com/ayudadigital/gp-php/commit/429db41))
+
+### Authors
+
+* Pedro Amador
+
 ## v3.1.0 (2023-03-19)
 
 ### Changes
