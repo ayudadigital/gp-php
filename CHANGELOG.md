@@ -1,5 +1,25 @@
 # Changelog
 
+## v3.2.0 (2025-01-02)
+
+### Changes
+
+#### Upgrade
+
+* Use 8.4.2 ([287e371](https://github.com/ayudadigital/gp-php/commit/287e371))
+
+#### Build
+
+* Update Auto Release Log adding v3.2.0 info with JPL ([82d8d16](https://github.com/ayudadigital/gp-php/commit/82d8d16))
+
+#### Docs
+
+* Generate v3.1.1 changelog with JPL ([53c7212](https://github.com/ayudadigital/gp-php/commit/53c7212))
+
+### Authors
+
+* Pedro Amador
+
 ## v3.1.1 (2023-03-20)
 
 ### Changes
