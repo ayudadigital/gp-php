@@ -1,4 +1,4 @@
-FROM php:8.1.17-apache-buster
+FROM php:8.4.2-apache-bookworm
 
 LABEL org.opencontainers.image.source=https://github.com/ayudadigital/gp-php
 LABEL org.opencontainers.image.description="Generic Platform - PHP Webapp Server Product"
